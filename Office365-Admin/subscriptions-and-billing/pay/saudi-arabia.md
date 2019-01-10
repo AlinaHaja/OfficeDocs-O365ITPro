@@ -21,7 +21,7 @@ Please pay in EUR only and reference invoice number(s) on your payment remittanc
 
 **Bank:** Citibank, London  
 **SWIFT Code/BIC:** CITIGB2L  
-**IBAN:** GB31CITI18500812510049 
+**IBAN:** GB95CITI18500812510049 
 **SORT Code:** 185008  
 **Account Number:** 12510049   
 **Account Name:** MICROSOFT
